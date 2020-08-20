@@ -1,4 +1,4 @@
-# Unir TFM: Técnicas de aprendizaje automático aplicadas a la física de partículas.
-Código para el TFM de la UNIR
+# Proyecto de prueba
 
-Seguimos probando esto
+* Unificar Git y VS Code *éxito?*
+* Crear primer cuaderno Jupyter *éxito*
